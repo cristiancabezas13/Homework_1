@@ -19,14 +19,14 @@ The failure function is used in efficient pattern matching (e.g., KMP-like behav
 ---
 
 ## Requirements
-- Python 3.x
+- Python 3.13
 
 ---
 
 ## Versions used
-- **Operating System:** Windows 11 (edit if different)
-- **Programming language:** Python 3.13 (edit if different)
-- **Tools:** Visual Studio Code, PowerShell (edit if different)
+- **Operating System:** Windows 11 
+- **Programming language:** Python 3.13 
+- **Tools:** Visual Studio Code, PowerShell 
 
 ---
 
@@ -36,3 +36,4 @@ The failure function is used in efficient pattern matching (e.g., KMP-like behav
 Example (Windows PowerShell):
 ```powershell
 cd D:\Descargas
+python .\failure_function_fig319.py --test
