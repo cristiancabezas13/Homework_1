@@ -42,6 +42,8 @@ python .\failure_function_fig319.py abababaab --table
 python .\failure_function_fig319.py aaaaaa --table 
 python .\failure_function_fig319.py abbaabb --table 
 
+---
+
 ## Brief algorithm explanation (Figure 3.19)
 
 The algorithm builds f(s) from left to right. It keeps a variable t representing the current best border length (a prefix that is also a suffix).
