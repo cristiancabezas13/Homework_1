@@ -3,7 +3,7 @@
 **Course:** Formal Languages and Compilers  
 **Students:** Cristian David Cabezas Jimenez, Isabela Valencia Pino
 
-This program implements the algorithm from *Compilers: Principles, Techniques, and Tools (2nd Edition)* (Dragon Book), **Figure 3.19**, to compute the **failure function** for a given keyword (pattern).
+This program implements the algorithm from *Compilers: Principles, Techniques, and Tools (2nd Edition)* (Dragon Book), **Figure 3.19**, to compute the **failure function** for a given keyword.
 
 ---
 
