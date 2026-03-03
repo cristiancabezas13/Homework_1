@@ -37,7 +37,7 @@ Example (Windows PowerShell):
 ```powershell
 cd D:\Descargas
 python .\failure_function_fig319.py --test
-python failure_function_fig319.py ababaa --table
+python .\failure_function_fig319.py ababaa --table
 python .\failure_function_fig319.py abababaab --table 
 python .\failure_function_fig319.py aaaaaa --table 
-python .\failure_function_fig319.py abbaabb --table 
+python .\failure_function_fig319.py abbaabb --table
