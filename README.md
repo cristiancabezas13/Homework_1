@@ -42,7 +42,7 @@ python .\failure_function_fig319.py abababaab --table
 python .\failure_function_fig319.py aaaaaa --table 
 python .\failure_function_fig319.py abbaabb --table 
 
-Brief algorithm explanation (Figure 3.19)
+## Brief algorithm explanation (Figure 3.19)
 
 The algorithm builds f(s) from left to right. It keeps a variable t representing the current best border length (a prefix that is also a suffix).
 For each new position, if the next character does not match, we repeatedly reduce t using previously computed values (t = f(t)) until we find a border that can be extended or until t becomes 0.
